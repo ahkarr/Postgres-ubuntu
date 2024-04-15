@@ -1,6 +1,10 @@
 # Postgres-ubuntu
 install postgrel on ubuntu 20.04
 
+# Environment
+Ubuntu 20.04
+Postgrel 16
+
 # Grant Permission Role
 -s
 --superuser	SUPERUSER	Add the superuser privilege.
