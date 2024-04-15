@@ -44,6 +44,3 @@ ss -nlt | grep 5432
 
 sudo ufw enable 5432
 
-## load sample database
-sudo apt-get install curl
-curl -O https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
