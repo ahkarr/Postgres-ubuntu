@@ -29,3 +29,9 @@ install postgrel on ubuntu 20.04
 /	PASSWORD NULL	Specifically sets the password to null. Every password authentication fails for this user.
 -c [number]
 --connection-limit=[number]	CONNECTION LIMIT [number]	Sets the maximum number of connections for a user. Default is without limit.
+
+# Server Config
+![alt text] https://github.com/r-mm98/Postgres-ubuntu/blob/main/Screen%20Shot%202024-04-15%20at%2012.47.39%20PM.png
+
+# Navicat
+![alt text]https://github.com/r-mm98/Postgres-ubuntu/blob/main/Screen%20Shot%202024-04-15%20at%206.43.48%20PM.png
