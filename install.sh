@@ -13,7 +13,7 @@ sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ $(lsb_release -cs
 
 -- install postgrel
 
-sudo apt get update
+sudo apt-get update
 
 sudo apt install postgresql postgresql-contrib
 
@@ -42,5 +42,5 @@ sudo systemctl restart postgrel
 ## allow port
 ss -nlt | grep 5432
 
-sudo ufw enable 5432
+sudo ufw allow 5432
 
