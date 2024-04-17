@@ -12,7 +12,7 @@ CREATE DATABASE dvdrental;
 ## restore database 
 ## before restore database, open connection 
 
-sudo vim udo vim /etc/postgresql/16/main/pg_hba.conf
+sudo vim /etc/postgresql/16/main/pg_hba.conf
 # Database administrative login by Unix domain socket
 local   all             postgres                               md5
 
